@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haotian Liu (Hilton Leo)
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate of Electrical Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tsinghua University
+  url: "www.tsinghua.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, multi-armed bandit, power system and model-free control.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Reinforcement Learning
+- Power System
+- Model-free Control
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical Engineering
+    institution: Tsinghua University
+    year: ~2023
+  - course: Minor in Technological innovation and Entrepreneurship
+    institution: Tsinghua University
+    year: 2018
+  - course: BSc in Electrical Engineering
+    institution: Tsinghua University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +48,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/HaotianLiu3
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: researchgate
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Haotian-Liu-6
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ritou11
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Haotian Liu received the B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. He is currently purchasing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University, Beijing. His research interests include active distribution system operation and control, model-free control, machine learning especially reinforcement learning and their applications in the energy system.
