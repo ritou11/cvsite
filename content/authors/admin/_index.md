@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haotian Liu (Hilton Leo)
+title: Haotian Liu
 
 # Username (this should match the folder name)
 authors:
