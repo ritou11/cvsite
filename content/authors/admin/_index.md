@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Haotian Liu received the B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. He is currently purchasing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University, Beijing. His research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control.
+Haotian Liu received the B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. He is currently pursuing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University, Beijing. His research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control.
