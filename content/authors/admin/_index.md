@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate of Electrical Engineering
+role: PhD Candidate of [Electrical Engineering](http://www.eea.tsinghua.edu.cn/eng/pages/articleBA.html)
 
 # Organizations/Affiliations
 organizations:
 - name: Tsinghua University
-  url: "www.tsinghua.edu.cn"
+  url: "https://www.tsinghua.edu.cn/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, multi-armed bandit, power system and model-free control.
+bio: My research interests include reinforcement learning, contextual bandit, power system and model-free control.
 
 interests:
 - Artificial Intelligence
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Haotian Liu received the B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. He is currently purchasing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University, Beijing. His research interests include active distribution system operation and control, model-free control, machine learning especially reinforcement learning and their applications in the energy system.
+Haotian Liu received the B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. He is currently purchasing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University, Beijing. His research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control.
