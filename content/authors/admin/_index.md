@@ -34,7 +34,7 @@ education:
   - course: Minor in Technological innovation and Entrepreneurship
     institution: Tsinghua University
     year: 2018
-  - course: BSc in Electrical Engineering
+  - course: Bachelor in Electrical Engineering
     institution: Tsinghua University
     year: 2018
 
