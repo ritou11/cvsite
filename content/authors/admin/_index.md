@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include reinforcement learning, contextual bandit, power system and model-free control.
 
 interests:
-- Artificial Intelligence
 - Reinforcement Learning
 - Power System
+- Artificial Intelligence
 - Model-free Control
 
 education:
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-Haotian Liu received the B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. He is currently pursuing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University, Beijing. His research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control.
+I received my B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. Currently I'm pursuing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University. My research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control and other AI applications. I am also interested in modern programming languages and frameworks. In recent years, I have became a rookie of the open source society.  As for sports, I'm a fan of basketball and swimming.
