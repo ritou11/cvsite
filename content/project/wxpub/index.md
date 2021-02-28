@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "WeChat official account visualization"
-summary: "[CHINESE ONLY] Analyze the wechat official accounts."
+title: "Official account visualization"
+summary: "Analyze the wechat official accounts."
 authors: [admin]
-tags: []
+tags: ["frontend","backend"]
 categories: []
 date: 2021-02-28T17:12:16+08:00
 

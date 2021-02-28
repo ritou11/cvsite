@@ -4,7 +4,7 @@
 title: "Shakespeare"
 summary: "Visualize shakespeare's works."
 authors: [admin]
-tags: []
+tags: ["frontend"]
 categories: []
 date: 2021-02-28T16:56:50+08:00
 

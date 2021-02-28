@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Colorana"
-summary: "Analyze the color of an image in the HSL space."
+title: "Thubeamer"
+summary: "A beamer template for Tsinghua University."
 authors: [admin]
-tags: ["frontend"]
+tags: ["tools"]
 categories: []
-date: 2021-02-28T16:48:30+08:00
+date: 2021-02-27T17:23:46+08:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/ritou11/colorana"
-url_pdf: ""
+url_code: "https://github.com/ritou11/thubeamer"
+url_pdf: "files/thubeamer.pdf"
 url_slides: ""
 url_video: ""
 
@@ -40,10 +40,13 @@ url_video: ""
 slides: ""
 ---
 
-The online analyzer can be found [here](https://color.nogeek.top). This is the first homework assignment of the course Data Visualization, Tsinghua Univ., Spring 2019.
+A beamer template for Tsinghua University, Beijing, China.
 
-The options include:
-- Zoom: Use sqrt to zoom the violins.
-- Transition: Make animation in the violin plot.
-- Pie Image: Show target image in the pie plot.
+### Installation
+Use `./install.sh` to install and add the package in your beamer file.
+```latex
+\usepackage{thubeamer}
+```
 
+### Source
+Or you can just edit `index.tex` file in the project folder.
