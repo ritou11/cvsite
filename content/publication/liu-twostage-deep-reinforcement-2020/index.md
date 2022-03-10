@@ -19,10 +19,10 @@ tags:
 - '"Training"'
 - '"transfer learning"'
 - '"Voltage control"'
-categories: []
+categories: ['Featured work']
 date: '2020-01-01'
 lastmod: 2021-02-27T23:35:41+08:00
-featured: true
+featured: false
 draft: false
 weight: 100
 

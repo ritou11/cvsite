@@ -6,7 +6,7 @@ title: 'Model-Free Voltage Control for Inverter-Based Energy Resources: Algorith
 subtitle: ''
 summary: ''
 authors:
-- Haotian Liu
+- admin
 - Wenchuan Wu
 - Anjan Bose
 tags:
@@ -20,7 +20,7 @@ tags:
 - '"Reactive power"'
 - '"renewable energy"'
 - '"Voltage control"'
-categories: []
+categories: ['Featured work']
 # date: '2020-01-01'
 lastmod: 2021-02-27T23:28:40+08:00
 featured: false
