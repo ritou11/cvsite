@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xinming Wang
-- Haotian Liu
+- admim
 - Xin Cao
 - Wenchuan Wu
 - Shihui Li
@@ -25,7 +25,7 @@ tags:
 - Reinforcement learning
 - Renewable energy sources
 categories: []
-date: '2021-08-01'
+date: '2020-03-10T11:04:01.029334Z'
 lastmod: 2022-03-10T19:04:01+08:00
 featured: false
 draft: false

@@ -21,9 +21,9 @@ tags:
 - '"renewable energy"'
 - '"Voltage control"'
 categories: ['Featured work']
-# date: '2020-01-01'
+date: '2021-02-27T15:28:39.984879Z'
 lastmod: 2021-02-27T23:28:40+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

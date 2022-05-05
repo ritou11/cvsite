@@ -21,23 +21,25 @@ subtitle = ""
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
+  order = "desc"
+
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Featured work"
+    # category = "Featured work"
     publication_type = ""
     author = ""
     exclude_featured = false
-  
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
