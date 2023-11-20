@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate of [Electrical Engineering](http://www.eea.tsinghua.edu.cn/eng/pages/articleBA.html)
+role: PhD of [Electrical Engineering](http://www.eea.tsinghua.edu.cn/eng/pages/articleBA.html)
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Electrical Engineering
     institution: Tsinghua University
-    year: ~2023
+    year: 2023
   - course: Minor in Technological innovation and Entrepreneurship
     institution: Tsinghua University
     year: 2018
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I received my B.S. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. Currently I'm pursuing the Ph.D. degree in the Electrical Engineering Department, Tsinghua University. My research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control and other AI applications. I am also interested in modern programming languages and frameworks. In recent years, I have became a rookie of the open source society.  As for sports, I'm a fan of basketball and swimming.
+I received my B.S. & Ph.D. degree from the Electrical Engineering Department, Tsinghua University, Beijing, China. Currently, I'm working on a startup company in the field of energy management system. My research interests include machine learning especially reinforcement learning and their applications in the energy system, active distribution system operation and control, model-free control and other AI applications. I am also interested in modern programming languages and frameworks. In recent years, I have become a rookie of the open source society.  As for sports, I'm a fan of basketball and swimming.
